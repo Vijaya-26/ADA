@@ -1,4 +1,4 @@
-//Write a prgm to print all tyhe nodes reachable from a starting node in a diagrapm using BFS method
+//Write a prgm to identify if graph is connected or not
 
 #include<stdio.h>
 #include<conio.h>
